@@ -67,9 +67,8 @@ public class Neo4jTest {
         System.out.println("result=" + JSON.toJSONString(result));
     }
 
-
-
     /**
+     * SpringBoot+Neo4j在社交电商中，讲述你是怎么被绑定为下线的
      * 隔壁老王绑定小张、小李、小吴、小周
      */
     @Test
